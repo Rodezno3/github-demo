@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Hola mundo</title>
+	</head>
+	<body>
+		<h1>Este es mi primer proyecto web</h1>
+		<p>Y este es mi primer parrafo</p>
+	</body>
+</html>
